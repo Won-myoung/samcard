@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2780ed73.css",
-    "main.js": "/static/js/main.e859ec68.js",
+    "main.js": "/static/js/main.86a38d8a.js",
     "static/js/453.5eb27d87.chunk.js": "/static/js/453.5eb27d87.chunk.js",
     "static/media/paymentCover01.png": "/static/media/paymentCover01.ef62f28a0c87cb11ca76.png",
     "static/media/calculator.png": "/static/media/calculator.b2a7f57a83bf00aee574.png",
@@ -9,11 +9,11 @@
     "index.html": "/index.html",
     "static/media/linkArrow.svg": "/static/media/linkArrow.402f6058a293e6391dbe.svg",
     "main.2780ed73.css.map": "/static/css/main.2780ed73.css.map",
-    "main.e859ec68.js.map": "/static/js/main.e859ec68.js.map",
+    "main.86a38d8a.js.map": "/static/js/main.86a38d8a.js.map",
     "453.5eb27d87.chunk.js.map": "/static/js/453.5eb27d87.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2780ed73.css",
-    "static/js/main.e859ec68.js"
+    "static/js/main.86a38d8a.js"
   ]
 }
